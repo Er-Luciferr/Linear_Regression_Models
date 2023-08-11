@@ -1,16 +1,16 @@
-# lab-flask
-
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
 
 
-To run flask application 
+# Algerian Forest Fires Linear Regression
 
-```
-python app.py
-```
+This repo contains the code and data for a linear regression ML model that predicts the FWI of forest fires in Algeria based on meteorological and other factors. The data was obtained from kaggle , which contains 244 instances of forest fires from 2012 . The code is written in Python using scikit-learn and pandas libraries.
 
+The main steps of the project are:
 
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
+- Data exploration and preprocessing
+- Feature selection and engineering
+- Model training and evaluation
+- Flask 
+
+To run the code, you need to install the required packages listed in the `requirements.txt` file. 
+
+I hope this helps you for learning . If you have any questions or feedback, please feel free to contact me. Thank you for visiting my repo! 😊
